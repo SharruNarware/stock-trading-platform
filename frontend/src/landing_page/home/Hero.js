@@ -4,7 +4,7 @@ function Hero() {
     return ( 
         <div className='container p-5 mb-5'>
             <div className='row text-center'>
-                <img src='media/images/HomeHero.png' alt='Hero image'/>
+                <img src='media/images/homeHero.png' alt='Hero image'/>
                 <h1 className='mt-5'>Invest in everything</h1>
                 <p className='mb-4'>Online platform to invest in stocks, IPOs, derivatives, mutual funds, ETFs, bonds, and more.</p>
                 <button className='p-2 btn btn-primary fs-5 mb-5' style={{width:"30%", margin:"0 auto", color:"white"}}>sign up for free</button>
